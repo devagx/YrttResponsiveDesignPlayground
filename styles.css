@@ -18,6 +18,18 @@ img {
     border: 5px solid purple;
 }
 
+.purple-rect {
+    height: 200px;
+    background-color: plum;
+    border: 1px solid lightcoral;
+}
+
+.blue-rect {
+    height: 200px;
+    background-color: lightcyan;
+    border: 1px solid lightcoral;
+}
+
 @media only screen and (min-width: 600px) {
     img {
         display: block;
