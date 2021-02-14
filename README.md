@@ -1,4 +1,4 @@
-# YrttResponsiveDesignPlayground
+# yrtt-responsive-design-playground
 
 The code in this repository demonstrates:
 
